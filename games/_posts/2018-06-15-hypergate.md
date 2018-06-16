@@ -5,12 +5,18 @@ date: 2018-06-15
 
 [HyperGate (GameJolt)](https://gamejolt.com/games/hypergate/80474)
 
-![screenshot](https://i.gjcdn.net/data/games/1/224/80474/screenshots/hypergate33-2rse4wih.png)
+<img src="https://i.gjcdn.net/data/games/1/224/80474/screenshots/hypergate11-ijsvfrey.png" alt="screenshot" width=45% align="left" />
+<img src="https://i.gjcdn.net/data/games/1/224/80474/screenshots/hypergate33-2rse4wih.png" alt="screenshot" width=45% align="right" />
 
+---
+
+### Blurb:
+```
 "My first game project and #INDIESVSGAMERS entry!
 A classical space adventure paying homage to great Golden Age cabinet hits!
 
 IT IS FINISHED! I've been researching games from the era I want to simulate and paying attention to the small details that give that arcade feel I want to achieve for this Game Jam's theme."
+```
 
 The first game jam I took seriously... It was mainly a challenge to myself to make a game in Unity. It's purely 2D but it was my first project outside of GameMaker, and my first finished project, I guess.
 
