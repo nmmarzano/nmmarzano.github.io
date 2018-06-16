@@ -30,4 +30,6 @@ Oh right! The way bosses are introduced when the stage starts is taken right fro
 
 The little stage start jingle was also inspired from Galaga, and I also ended up making stage end and game over jingles based on it. Hazel, a great friend with a Naming Sense, made me a little boss fight theme to break up the silence of regular stages and add a bit of tension to the boss fight.
 
+A fun little bug with this game was that I was calculating the enemies' direction in the update() function instead of fixedUpdate()... which meant it got changed *as fast as possible* instead of a fixed ammount of times per second. Of course when I tried it on my slow, old desktop pc it seemed to work perfectly, but when I finally got someone else (with probably a more decent computer) to try and stream it, the enemies were spinning in place like crazy... Getting others to playtest your game is important!
+
 I had some more ideas as I remember, things like having a boss rush as the final stage in each loop, having a very mangled lowpass voice shout "HyperGate!" together with a small cutscene between stages, small "secrets" like shooting enemies at specific times giving yo bonuses... In the end it's not a very memorable game in itself, but it was my first finished product so it's a nice memory in a way.
