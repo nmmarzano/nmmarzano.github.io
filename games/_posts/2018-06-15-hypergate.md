@@ -5,6 +5,8 @@ date: 2018-06-15
 
 [HyperGate (GameJolt)](https://gamejolt.com/games/hypergate/80474)
 
+![screenshot](https://i.gjcdn.net/data/games/1/224/80474/screenshots/hypergate33-2rse4wih.png)
+
 "My first game project and #INDIESVSGAMERS entry!
 A classical space adventure paying homage to great Golden Age cabinet hits!
 
