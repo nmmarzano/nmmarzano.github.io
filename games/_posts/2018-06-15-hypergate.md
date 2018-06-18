@@ -3,7 +3,7 @@ title: "HyperGate"
 date: 2018-06-15
 ---
 
-[HyperGate (GameJolt)](https://gamejolt.com/games/hypergate/80474)
+[HyperGate (itch.io)](https://gaogaotaiga.itch.io/hypergate)
 
 
 *"My first game project and #INDIESVSGAMERS entry!
