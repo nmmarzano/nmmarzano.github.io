@@ -3,6 +3,8 @@ title: "Nyabigail"
 date: 2018-06-16
 ---
 
+[Nyabigail (GitHub)](https://github.com/nmmarzano/nyabigail)
+
 Literally just a dumb idea born from a dumb tweet.
 
 "Stardew Valley mod that makes Abigail say nya at the end of every phrase".
