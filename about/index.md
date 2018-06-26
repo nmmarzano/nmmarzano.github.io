@@ -16,4 +16,6 @@ Beautiful hair.
 - [GameJolt](https://gamejolt.com/@GaoGaoTaiga)
 - [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-marzano-7538b813a/)
 
+---
+
 Feeling generous, or maybe just want to support me? You can [donate with PayPal](https://paypal.me/nmmarzano)!
