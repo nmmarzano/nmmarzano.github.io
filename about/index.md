@@ -10,3 +10,8 @@ Fluent in English and Spanish, can somewhat hold a conversation in Italian and J
 Hobbies include origami, studying languages, playing videogames.
 
 Beautiful hair.
+
+### Find me on...
+- [itch.io](https://gaogaotaiga.itch.io/)
+- [GameJolt](https://gamejolt.com/@GaoGaoTaiga)
+- [LinkedIn](https://www.linkedin.com/in/nicol%C3%A1s-marzano-7538b813a/)
