@@ -18,6 +18,8 @@ Beautiful hair.
 
 ---
 
-Feeling generous, or maybe just want to support me? You can [donate with PayPal](https://paypal.me/nmmarzano)!
+Feeling generous, or maybe just want to support me?
 
-You can also [buy me a coffee at ko-fi](https://ko-fi.com/gaogaotaiga).
+[Donate on paypal.me](https://paypal.me/nmmarzano)
+
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/V7V3GZ35)
