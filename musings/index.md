@@ -2,6 +2,7 @@
 title: "Musings"
 ---
 
+- Aug 28, 2018: PerlinNoise.py ([blog post](https://nmmarzano.github.io/musings/2018/08/28/perlinnoise.html)) ([GitHub repo](https://github.com/nmmarzano/PerlinNoise.py))
 - Aug 19, 2018: TemplateChunkyDungeons.py ([blog post](https://nmmarzano.github.io/musings/2018/08/19/templatechunkydungeons.html)) ([GitHub repo](https://github.com/nmmarzano/TemplateChunkyDungeons.py))
 - Aug 12, 2018: CellularCaves.py ([blog post](https://nmmarzano.github.io/musings/2018/08/12/cellularcaves.html)) ([GitHub repo](https://github.com/nmmarzano/CellularCaves.py))
 - Jun 24, 2018: QuestMenu Web ([blog post](https://nmmarzano.github.io/musings/2018/06/24/questmenuweb.html)) ([GitHub repo](https://github.com/nmmarzano/QuestMenuWeb)) ([website](https://nmmarzano.github.io/QuestMenuWeb/))
