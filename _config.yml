@@ -2,11 +2,11 @@ title: ShuwaShuwaBlog
 author: Shou
 email: nmmarzano@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog!!
+  Personal blog for projects and dumb stuff
 # social links
 github_username: nmmarzano
 
-show_excerpts: true # set to false to remove excerpts on the homepage
+show_excerpts: false # set to false to remove excerpts on the homepage
 
 
 theme: minima
