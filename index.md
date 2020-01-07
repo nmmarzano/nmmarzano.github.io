@@ -1,1 +1,1 @@
-Full stack web and newbie Android developer. Most experience with Angular on front end and Java on back end, learning Python and React. Hobby game designer+developer. Will process any nearby unattended squares of paper into origami.
+Full stack web and Android developer. Most experience with Angular on front end and Java+Spring on back end, Ionic on mobile, learning Python and React. Hobby game designer+developer. Will process any nearby unattended squares of paper into origami.
