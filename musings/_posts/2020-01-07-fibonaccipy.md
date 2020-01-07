@@ -1,6 +1,6 @@
 ---
 title: "fibonacci.py"
-date: 2018-06-16
+date: 2020-01-07
 ---
 
 [fibonacci.py (GitHub)](https://github.com/nmmarzano/fibonacci.py)
