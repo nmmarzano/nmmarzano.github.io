@@ -2,7 +2,7 @@
 title: "Musings"
 ---
 
-- Mar 4, 2017: Game of Life ([blog post](https://nmmarzano.github.io/musings/2017/04/03/gameoflife.html)) ([GitHub repo](https://github.com/nmmarzano/python-gameoflife))
+- Mar 4, 2017: Game of Life ([blog post](https://nmmarzano.github.io/musings/2017/03/04/gameoflife.html)) ([GitHub repo](https://github.com/nmmarzano/python-gameoflife))
 - Aug 28, 2018: PerlinNoise.py ([blog post](https://nmmarzano.github.io/musings/2018/08/28/perlinnoise.html)) ([GitHub repo](https://github.com/nmmarzano/PerlinNoise.py))
 - Aug 19, 2018: TemplateChunkyDungeons.py ([blog post](https://nmmarzano.github.io/musings/2018/08/19/templatechunkydungeons.html)) ([GitHub repo](https://github.com/nmmarzano/TemplateChunkyDungeons.py))
 - Aug 12, 2018: CellularCaves.py ([blog post](https://nmmarzano.github.io/musings/2018/08/12/cellularcaves.html)) ([GitHub repo](https://github.com/nmmarzano/CellularCaves.py))
